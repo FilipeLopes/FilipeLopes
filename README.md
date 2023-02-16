@@ -13,8 +13,8 @@
   const user = {
       fullName: "Filipe Rafael Lopes da Silva",
       age: 29,
-      livingIn:{state:"Zurich",country:"Switzerland"},
-      naturalFrom: {state:"Santa Catarina", country:"Brazil"},
+      livingIn:{region:"Zurich",country:"Switzerland"},
+      naturalFrom: {region:"Santa Catarina", country:"Brazil"},
 
   }
 ```
