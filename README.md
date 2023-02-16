@@ -10,7 +10,7 @@
 
 ## useDebugValue(“Hello Devs);
 ```javascript
-  const person = {
+  const user = {
       fullName: "Filipe Rafael Lopes da Silva",
       age: 29,
       livingIn:{state:"Zurich",country:"Switzerland"},
