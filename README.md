@@ -23,7 +23,7 @@
 ## Contact
 
 ## Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeLopes&show_icons=true&theme=dark&hide=stars,commits,prs,issues,contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeLopes&show_icons=true&hide=issues,contribs&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeLopes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **FilipeLopes/FilipeLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
