@@ -19,7 +19,7 @@
   }
 ```
 ## Technologies and Tools
-<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" title = "REACT"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" title = "REACT" style=" pointer-events: none;"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" title = "HTML"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" title = "CSS"/></code>
@@ -34,6 +34,8 @@
 ## Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeLopes&show_icons=true&hide=issues,contribs&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeLopes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **FilipeLopes/FilipeLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
