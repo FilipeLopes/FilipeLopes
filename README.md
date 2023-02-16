@@ -29,6 +29,7 @@
 
 
 ## Contact
+📫 Feel free to contact me via [Instagram](https://www.instagram.com/lopesfiliper/) or email: lopes.filiper@gmail.com .
 
 ## Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeLopes&show_icons=true&hide=issues,contribs&theme=dark)
