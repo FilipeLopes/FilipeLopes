@@ -1,4 +1,12 @@
-### Hi there 👋
+<div dsplay="inline-block">
+  <h1 align="left">Filipe Lopes</h1>
+  <a href="https://www.instagram.com/lopesfiliper/">
+    <img align="left" width="60px" src="https://i.ibb.co/stcwG29/instagram.png" alt="instagram">
+  </a> 
+  <a href="https://www.linkedin.com/in/filipe-rafael-lopes-da-silva-78909a149/">
+    <img width="60px" src="https://i.ibb.co/5c98q7p/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
 
 <!--
 **FilipeLopes/FilipeLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
