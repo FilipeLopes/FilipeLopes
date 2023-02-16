@@ -9,11 +9,11 @@
 </div>
 
 ## useDebugValue(“Hello World”);
-```javscript
+```javascript
 const itsMe {
   name: "Filipe Rafael Lopes da Silva",
   age: 29,
-  
+
 }
 ```
 ## Technologies and Tools
