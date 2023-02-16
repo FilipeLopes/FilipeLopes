@@ -10,13 +10,13 @@
 
 ## useDebugValue(“Hello World”);
 ```javascript
-const itsMe {
-  fullName: "Filipe Rafael Lopes da Silva",
-  age: 29,
-  livingIn: "Zurich - Switzerland",
-  naturalFrom: "Santa Catarina - Brazil",
+  const person = {
+      fullName: "Filipe Rafael Lopes da Silva",
+      age: 29,
+      livingIn:{state:"Zurich",country:"Switzerland"},
+      naturalFrom: {state:"Santa Catarina", country:"Brazil"},
 
-}
+  }
 ```
 ## Technologies and Tools
 
