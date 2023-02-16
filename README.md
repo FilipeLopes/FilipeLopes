@@ -8,7 +8,7 @@
   </a>
 </div>
 
-## useDebugValue(“Hello World”);
+## useDebugValue(“Hello Devs);
 ```javascript
   const person = {
       fullName: "Filipe Rafael Lopes da Silva",
