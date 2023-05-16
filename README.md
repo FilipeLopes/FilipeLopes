@@ -26,7 +26,7 @@
 <code><a href="#"><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" title = "FIREBASE"/></code></a>
 <code><a href="#"><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title = "MySQL"/></code></a>
 <code><a href="#"><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title = "PostgreSQL"/></code></a>
-<code><a href="#"><img width="40px" src="https://www.django-rest-framework.org/img/logo.png" title = "Django REST Framework"/></code></a>
+<code><a href="#"><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" title = "Django REST Framework"/></code></a>
 
 
 
